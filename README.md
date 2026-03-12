@@ -44,6 +44,7 @@ This project focuses on learning the fundamentals of JavaScript. The goal was to
 One challenge was understanding how to structure logic in loops and conditions, especially in problems like FizzBuzz. I also needed time to understand how array methods work when manipulating data. I solved these challenges by testing small pieces of code in the console and practicing multiple approaches until I understood how JavaScript processes each step.
 
 ##Fizzbuzz Console Output 
+
 ![Screenshot Console Output]("screenshots/fizzbuzz-output.png" width="600")
 
 ![Screenshot Console Output](https://github.com/Maureenmuchoki/iyf-s10-week-04-Maureenmuchoki/raw/main/screenshots/fizzbuzz-output.png)
