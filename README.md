@@ -3,7 +3,7 @@
 
 ## Author
 - **Name:** Maureen Muchoki
-- **GitHub:** [@Maureenmuchoki](https://github.com/Maureenmuchoki)
+- **GitHub:** [@Maureenmuchoki-hub](https://github.com/Maureenmuchoki)
 - **Date:** March 12, 2026
 
 ## Project Description
