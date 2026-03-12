@@ -2,7 +2,7 @@
 # Week 4: JavaScript Fundamentals
 
 ## Author
-- **Name:** Maureen Muchoki
+- **Name:** maureenmuchoki-hub.github.io
 - **GitHub:** [@Maureemuchoki](https://github.com/Maureenmuchoki)
 - **Date:** March 12, 2026
 
@@ -44,7 +44,7 @@ This project focuses on learning the fundamentals of JavaScript. The goal was to
 One challenge was understanding how to structure logic in loops and conditions, especially in problems like FizzBuzz. I also needed time to understand how array methods work when manipulating data. I solved these challenges by testing small pieces of code in the console and practicing multiple approaches until I understood how JavaScript processes each step.
 
 ## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
+![Screenshot Console Output](screenshots/fizzbuzz-output.png)
 
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployed-url.com)
