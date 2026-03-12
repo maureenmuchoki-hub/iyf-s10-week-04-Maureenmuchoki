@@ -24,7 +24,7 @@ This project focuses on learning the fundamentals of JavaScript. The goal was to
 - Practice with arrays, objects, and array methods such as map(), filter(), and reduce()
 
 ## How to Run
-1. Clone this repository. git clone https://github.com/Maureenmuchoki/iyf-s10-week-04-Maureenmuchoki.git
+1. Clone this repository.
 2. Open `index.html` in your browser
    OR
    Run `npm install` then `npm start`
@@ -45,7 +45,9 @@ One challenge was understanding how to structure logic in loops and conditions, 
 
 ## Fizzbuzz Console Output
 
-[Screenshot Console Output](https://github.com/maureenmuchoki-hub/iyf-s10-week-04-Maureenmuchoki/blob/main/fizzbuzz-output.png)
+![Screenshot Console Output](https://github.com/maureenmuchoki-hub/iyf-s10-week-04-Maureenmuchoki/blob/main/fizzbuzz-output.png)
+
+[View FizzBuzz Console Output](screenshots/fizzbuzz-output.png)
 
 ## Live Demo (if deployed)
 
