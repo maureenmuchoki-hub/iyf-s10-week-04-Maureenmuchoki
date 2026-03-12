@@ -1,6 +1,5 @@
-# iyf-s10-week-01-Maureenmuchoki
-JavaScript Fundamentals
-# Week {Number}: {JavaScript Fundamentals}
+
+# Week 4: JavaScript Fundamentals
 
 ## Author
 - **Name:** Maureen Muchoki
