@@ -45,7 +45,7 @@ One challenge was understanding how to structure logic in loops and conditions, 
 
 ##Fizzbuzz Console Output 
 
-![Screenshot Console Output](screenshots/fizzbuzz-output.png" width="600)
+![Screenshot Console Output](screenshots/fizzbuzz-output.png width=600)
 
 ![Screenshot Console Output](https://github.com/Maureenmuchoki/iyf-s10-week-04-Maureenmuchoki/raw/main/screenshots/fizzbuzz-output.png)
 
