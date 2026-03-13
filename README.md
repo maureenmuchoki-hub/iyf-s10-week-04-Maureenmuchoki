@@ -51,4 +51,4 @@ One challenge was understanding how to structure logic in loops and conditions, 
 
 ## Live Demo (if deployed)
 
-Not yet
+[View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-04-Maureenmuchoki/)
