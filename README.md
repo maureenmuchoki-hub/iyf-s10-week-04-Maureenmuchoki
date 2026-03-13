@@ -55,4 +55,4 @@ One challenge was understanding how to structure logic in loops and conditions, 
 
 [Student Grade Tracker](https://maureenmuchoki-hub.github.io/iyf-s10-week-04-Maureenmuchoki/Add%20HTML/student-grade-tracker.html)
 
-[FizzBuzz](https://github.com/maureenmuchoki-hub/iyf-s10-week-04-Maureenmuchoki/Add%20HTML/FizzBuzz.html)
+[FizzBuzz](https://maureenmuchoki-hub.github.io/iyf-s10-week-04-Maureenmuchoki/Add%20HTML/FizzBuzz.html)
