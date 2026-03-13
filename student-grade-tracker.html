@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Grade Tracker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        input { margin: 5px; }
+        button { margin-top: 10px; }
+        #report { margin-top: 20px; padding: 10px; border: 1px solid #333; width: 400px; }
+    </style>
+</head>
+<body>
+    <h1>Student Grade Tracker</h1>
+
+    <label>Student Name: <input type="text" id="name" placeholder="Enter name"></label><br>
+    <label>Math: <input type="number" id="math" placeholder="0-100"></label><br>
+    <label>English: <input type="number" id="english" placeholder="0-100"></label><br>
+    <label>Science: <input type="number" id="science" placeholder="0-100"></label><br>
+    <label>Computer Studies: <input type="number" id="computer" placeholder="0-100"></label><br>
+
+
+    <button onclick="generateReport()">Generate Report</button>
+
+    <div id="report"></div>
+
+    <script src="student-grade-tracker.js"></script>
+
+</body>
+</html>
