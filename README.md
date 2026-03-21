@@ -45,9 +45,11 @@ One challenge was understanding how to structure logic in loops and conditions, 
 
 ## Screenshots
 
-[View FizzBuzz Console Output](screenshots/fizzbuzz-output.png)
+![View FizzBuzz Console Output](screenshots/fizzbuzz-output.png)
 
-[View Student Grade Tracker Output](screenshots/Student%20Grade%20Tracker%20Output.png)
+![View Student Grade Tracker Output](screenshots/Student%20Grade%20Tracker%20Output.png)
+
+![View Calculator Output](screenshots/Calculator-output.png)
 
 ## Live Demo
 
@@ -56,3 +58,5 @@ One challenge was understanding how to structure logic in loops and conditions, 
 [Student Grade Tracker](https://maureenmuchoki-hub.github.io/iyf-s10-week-04-Maureenmuchoki/Add%20HTML/student-grade-tracker.html)
 
 [FizzBuzz](https://maureenmuchoki-hub.github.io/iyf-s10-week-04-Maureenmuchoki/Add%20HTML/FizzBuzz.html)
+
+[Calculator](https://maureenmuchoki-hub.github.io/iyf-s10-week-04-Maureenmuchoki/Add%20HTML/calculator.html))
