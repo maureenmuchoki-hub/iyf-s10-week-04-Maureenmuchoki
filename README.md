@@ -59,4 +59,4 @@ One challenge was understanding how to structure logic in loops and conditions, 
 
 [FizzBuzz](https://maureenmuchoki-hub.github.io/iyf-s10-week-04-Maureenmuchoki/Add%20HTML/FizzBuzz.html)
 
-[Calculator](https://maureenmuchoki-hub.github.io/iyf-s10-week-04-Maureenmuchoki/Add%20HTML/calculator.html))
+[Calculator](https://maureenmuchoki-hub.github.io/iyf-s10-week-04-Maureenmuchoki/Add%20HTML/calculator.html)
